@@ -1,0 +1,14 @@
+{
+  "name": "sqlapi",
+  "version": "1.0.0",
+  "description": "Using nodejs to creat reastapi in mysql",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.12.0",
+    "express": "^4.8.7",
+    "mysql": "^2.5.5",
+    "open": "0.0.5"
+  },
+  "author": "Nagarajan M",
+  "license": "ISC"
+}
